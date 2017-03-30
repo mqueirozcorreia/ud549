@@ -1,0 +1,21 @@
+{
+  "name": "ud549",
+  "version": "1.0.0",
+  "description": "Practice testing your javascript applications using Jasmine!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/udacity/ud549.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udacity/ud549/issues"
+  },
+  "homepage": "https://github.com/udacity/ud549",
+  "devDependencies": {
+  }
+}
